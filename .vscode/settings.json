@@ -1,3 +1,6 @@
 {
-    "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.colorTheme": "Default Dark+",
+    "editor.cursorStyle": "line",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": false
 }
